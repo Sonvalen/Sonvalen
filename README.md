@@ -11,7 +11,7 @@ Sonvalen@outlook.es
 - 🌍 Enamorado/a de la programación y la innovación
 - 📚 Siempre aprendiendo y creciendo
 - 🎂 19 años
-- (☞ﾟヮﾟ)☞   **Argentino**  ☜(ﾟヮﾟ☜)
+- (☞ ﾟヮﾟ)☞   **Argentino**  ☜(ﾟヮﾟ☜)
 
 ### 💻 Tecnologías y herramientas
 
