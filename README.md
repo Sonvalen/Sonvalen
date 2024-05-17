@@ -12,7 +12,8 @@
 - 📚 Siempre aprendiendo y creciendo
 - 🎂 19 años
 - (☞ ﾟヮﾟ)☞   **Argentino**  ☜(ﾟヮﾟ☜)
-
+**Contacto**
+Sonvalen@outlook.es
 ### 💻 Tecnologías y herramientas
 
 - **Lenguajes:** HTML, CSS, C++
@@ -21,8 +22,7 @@
 - **Herramientas:** Git, VS Code,Discord.
 
 
-**Contacto**
-Sonvalen@outlook.es
+
 
 ![giphy (1)](https://github.com/Sonvalen/Sonvalen/assets/156204496/d4f3bfef-b0f2-41b7-824f-22aef85fe2a1)
 
