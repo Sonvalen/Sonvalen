@@ -10,8 +10,8 @@ Sonvalen@outlook.es
 - 🎓 Estudiante de Programacion en la UTN (Universidad Tecnologica Nacional)
 - 🌍 Enamorado/a de la programación y la innovación
 - 📚 Siempre aprendiendo y creciendo
-- 19 años
-- Argentino
+- 🎂 19 años
+- (☞ﾟヮﾟ)☞   **Argentino**  ☜(ﾟヮﾟ☜)
 
 ### 💻 Tecnologías y herramientas
 
