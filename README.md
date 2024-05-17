@@ -6,7 +6,6 @@
 Sonvalen@outlook.es
 
 ### ℹ️ Sobre mí
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ4Zmd5OXVodWw2MjJoaTV1OHpoNGQ0cXZ3cGNsbmh2cXIxcTliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif
 - 🎓 Estudiante de Programacion en la UTN (Universidad Tecnologica Nacional)
 - 🌍 Enamorado/a de la programación y la innovación
 - 📚 Siempre aprendiendo y creciendo
