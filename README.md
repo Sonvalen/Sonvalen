@@ -6,10 +6,6 @@
 
 
 
-**Contacto**
-
-Sonvalen@outlook.es
-
 ### ℹ️ Sobre mí
 - 🎓 Estudiante de Programacion en la UTN (Universidad Tecnologica Nacional)
 - 🌍 Enamorado/a de la programación y la innovación
@@ -23,6 +19,10 @@ Sonvalen@outlook.es
 - **Frameworks:** Node.js
 - **Bases de datos:** MySQL.
 - **Herramientas:** Git, VS Code,Discord.
+
+
+**Contacto**
+Sonvalen@outlook.es
 
 ![giphy (1)](https://github.com/Sonvalen/Sonvalen/assets/156204496/d4f3bfef-b0f2-41b7-824f-22aef85fe2a1)
 
