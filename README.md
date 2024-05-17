@@ -1,7 +1,11 @@
 # 🌟 Bienvenido/a a mi perfil de GitHub 🌟
 
 ¡Hola! Soy Valentin, un iniciado de la programación y la tecnología. En este perfil se pueden ver mis proyectos. 
-![giphy](https://github.com/Sonvalen/Sonvalen/assets/156204496/7dc43075-a386-4c24-b14e-81633eb6c4d8)
+![giphy (2)](https://github.com/Sonvalen/Sonvalen/assets/156204496/f4d68af0-4bd2-436b-b33c-db5137e060e1)
+
+
+
+
 **Contacto**
 
 Sonvalen@outlook.es
