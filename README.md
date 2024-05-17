@@ -1,4 +1,4 @@
-# 🌟 Bienvenido/a a mi perfil de GitHub 🌟
+# 🖥 🌟 Bienvenido/a a mi perfil de GitHub 🌟🖥
 
 ¡Hola! Soy Valentin, un iniciado de la programación y la tecnología. En este perfil esta mi informacion. 
 
