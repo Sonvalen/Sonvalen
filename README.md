@@ -30,6 +30,8 @@ Sonvalen@outlook.es
 
 1. Chancha
 
+
+Despedida
 **Gracias por tomarse el tiempo de leer**
 ![giphy (2)](https://github.com/Sonvalen/Sonvalen/assets/156204496/f4d68af0-4bd2-436b-b33c-db5137e060e1)
 
